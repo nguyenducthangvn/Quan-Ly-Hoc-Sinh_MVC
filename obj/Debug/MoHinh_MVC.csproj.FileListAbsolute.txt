@@ -1,0 +1,9 @@
+F:\1. Hvit Study\2.3. CS_OOP List (MVC)\CS_OOP_List_Prosessing\MoHinh_MVC\bin\Debug\MoHinh_MVC.exe.config
+F:\1. Hvit Study\2.3. CS_OOP List (MVC)\CS_OOP_List_Prosessing\MoHinh_MVC\bin\Debug\MoHinh_MVC.exe
+F:\1. Hvit Study\2.3. CS_OOP List (MVC)\CS_OOP_List_Prosessing\MoHinh_MVC\bin\Debug\MoHinh_MVC.pdb
+F:\1. Hvit Study\2.3. CS_OOP List (MVC)\CS_OOP_List_Prosessing\MoHinh_MVC\obj\Debug\MoHinh_MVC.csproj.AssemblyReference.cache
+F:\1. Hvit Study\2.3. CS_OOP List (MVC)\CS_OOP_List_Prosessing\MoHinh_MVC\obj\Debug\MoHinh_MVC.Model.res.resources
+F:\1. Hvit Study\2.3. CS_OOP List (MVC)\CS_OOP_List_Prosessing\MoHinh_MVC\obj\Debug\MoHinh_MVC.csproj.GenerateResource.cache
+F:\1. Hvit Study\2.3. CS_OOP List (MVC)\CS_OOP_List_Prosessing\MoHinh_MVC\obj\Debug\MoHinh_MVC.csproj.CoreCompileInputs.cache
+F:\1. Hvit Study\2.3. CS_OOP List (MVC)\CS_OOP_List_Prosessing\MoHinh_MVC\obj\Debug\MoHinh_MVC.exe
+F:\1. Hvit Study\2.3. CS_OOP List (MVC)\CS_OOP_List_Prosessing\MoHinh_MVC\obj\Debug\MoHinh_MVC.pdb
